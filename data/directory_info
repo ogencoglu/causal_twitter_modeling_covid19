@@ -1,0 +1,6 @@
+Directory containing data. The following files would be needed for full reproducibility in the following structure:
+
+├── directory_info
+├── time_series_covid19_confirmed_global.csv
+├── time_series_covid19_deaths_global.csv
+└── tweets.csv

@@ -1,0 +1,15 @@
+# Python
+*.py[cod]
+
+# Packages
+*.egg
+*.egg-info
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Misc
+.DS_Store
+
+# logs
+*.json
