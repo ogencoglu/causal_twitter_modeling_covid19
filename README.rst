@@ -1,10 +1,10 @@
-Implementation of *Causal Modeling of Twitter Activity During COVID-19* - Gencoglu O. & Gruber M. (2020) 
+Implementation of `Causal Modeling of Twitter Activity During COVID-19 <https://arxiv.org/abs/2005.07952>`_ - Gencoglu O. & Gruber M. (2020) 
 ====================
 This repository provides the full implementation. Requires *python 3.7*.
 
 Main Idea
 ====================
-**Distinguishing events that correlate with public attention and sentiment change from events that cause public attention and sentiment during COVID-19 pandemic**
+**Distinguishing events that correlate with public attention and sentiment change from events that cause public attention and sentiment change during COVID-19 pandemic**
 
 .. raw:: html
 
@@ -49,3 +49,16 @@ Relevant configurations are defined in *configs.py*, e.g.:
   
 Cite
 ====================
+
+.. code-block::
+
+    @article{gencoglu2020causal,
+      title={Causal Modeling of Twitter Activity During COVID-19},
+      author={Gencoglu, Oguzhan and Gruber, Mathias},
+      journal={arXiv preprint arXiv:2005.07952},
+      year={2020}
+    }
+
+or
+
+    Gencoglu, Oguzhan, and Gruber, Mathias. "Causal Modeling of Twitter Activity During COVID-19." arXiv preprint arXiv:2005.07952 (2020).
