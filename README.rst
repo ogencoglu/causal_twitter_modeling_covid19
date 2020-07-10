@@ -4,7 +4,7 @@ This repository provides the full implementation. Requires *python 3.7*.
 
 Main Idea
 ====================
-**Distinguishing events that correlate with public attention and sentiment change from events that cause public attention and sentiment change during COVID-19 pandemic**
+**Distinguishing events that "correlate" with public attention and sentiment change from events that "cause" public attention and sentiment change during COVID-19 pandemic**
 
 .. raw:: html
 
