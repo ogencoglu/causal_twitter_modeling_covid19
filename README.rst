@@ -1,4 +1,4 @@
-Implementation of `Causal Modeling of Twitter Activity During COVID-19 <https://arxiv.org/abs/2005.07952>`_ - Gencoglu O. & Gruber M. (2020) 
+Implementation of `Causal Modeling of Twitter Activity during COVID-19 <https://www.mdpi.com/2079-3197/8/4/85>`_ - Gencoglu O. & Gruber M. (2020) 
 ====================
 This repository provides the full implementation. Requires *python 3.7*.
 
@@ -53,12 +53,16 @@ Relevant configurations are defined in *configs.py*, e.g.:
 .. code-block::
 
     @article{gencoglu2020causal,
-      title={Causal Modeling of Twitter Activity During COVID-19},
+      title={Causal Modeling of Twitter Activity during COVID-19},
       author={Gencoglu, Oguzhan and Gruber, Mathias},
-      journal={arXiv preprint arXiv:2005.07952},
-      year={2020}
+      journal={Computation},
+      volume={8},
+      number={4},
+      pages={85},
+      year={2020},
+      doi={10.3390/computation8040085}
     }
 
 or
 
-    Gencoglu, Oguzhan, and Gruber, Mathias. "Causal Modeling of Twitter Activity During COVID-19." arXiv preprint arXiv:2005.07952 (2020).
+    Gencoglu, Oguzhan, and Gruber, Mathias. "Causal Modeling of Twitter Activity during COVID-19." *Computation*. 2020; 8(4):85.
