@@ -47,7 +47,7 @@ Relevant configurations are defined in *configs.py*, e.g.:
   ├── train.py
   └── train_utils.py
   
-`Cite <https://scholar.google.com/scholar?q=Causal%20Modeling%20of%20Twitter%20Activity%20During%20COVID-19.%20arXiv%202020>`_
+`Cite <https://www.mdpi.com/2079-3197/8/4/85>`_
 ====================
 
 .. code-block::
