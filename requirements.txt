@@ -5,7 +5,7 @@ numpy==1.18.1
 scikit-learn==0.22.2
 pgmpy==0.1.10
 reverse-geocoder==1.5.1
-transformers==2.5.1
+transformers==4.30.0
 langdetect==1.0.8
 pandarallel==1.4.6
 tqdm==4.43.0
